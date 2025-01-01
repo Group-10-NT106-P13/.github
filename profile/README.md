@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+We are Group 10 of NT106.P13 - HCM UIT.
+
+We together made **FunDraw** - A Drawing and Guessing Game
+* FunDraw C# Client App: https://github.com/Group-10-NT106-P13/FunDraw
+* FunDraw Server App: https://github.com/Group-10-NT106-P13/FunDraw-API
+* FunDraw Docs: https://github.com/Group-10-NT106-P13/FunDraw-docs
 <!--
 
 **Here are some ideas to get you started:**
